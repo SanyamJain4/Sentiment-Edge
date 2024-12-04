@@ -1,0 +1,8 @@
+pandas
+requests
+beautifulsoup4
+nltk
+praw
+talib
+scikit-learn
+yfinance
