@@ -1,4 +1,4 @@
-# Stock Prediction Project
+# Sentiment Edge
 
 This project scrapes data from Reddit, processes sentiment data, and combines it with historical stock data to predict stock movements using machine learning.
 
