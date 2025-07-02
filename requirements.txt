@@ -6,3 +6,4 @@ praw
 talib
 scikit-learn
 yfinance
+talib
