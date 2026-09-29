@@ -1,0 +1,13 @@
+yfinance
+TA-Lib
+pandas
+numpy
+scikit-learn
+lightgbm
+joblib
+feedparser
+transformers
+torch
+pyarrow
+plotly
+streamlit

@@ -1,0 +1,11 @@
+.venv/
+venv/
+venv_new/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.streamlit/
+.ipynb_checkpoints/
+*.ipynb
+*.log
