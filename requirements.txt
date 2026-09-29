@@ -1,7 +1,10 @@
-yfinance
-TA-Lib
 pandas
 numpy
+requests
+beautifulsoup4
+nltk
+praw
+yfinance
 scikit-learn
 lightgbm
 joblib
@@ -11,3 +14,4 @@ torch
 pyarrow
 plotly
 streamlit
+ta-lib
